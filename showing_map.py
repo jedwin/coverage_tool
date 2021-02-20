@@ -7,7 +7,7 @@ import json
 import re
 
 db_host = 'localhost'
-# db_host = '132.96.10.83'
+
 db_name = 'postgres'
 db_user = 'postgres'
 db_password = 'postgres'
